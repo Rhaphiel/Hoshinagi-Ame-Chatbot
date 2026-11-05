@@ -2,7 +2,7 @@
 A QQ Chatbot by Rhaphiel
 ## Tutorial
 
-- [Local Setup(tutorial.md)
+- [Local Setup](tutorial.md)
 
 ## Release Log
 
