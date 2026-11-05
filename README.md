@@ -1,9 +1,9 @@
 # Hoshinagi-Ame-Chatbot
 A QQ Chatbot by Rhaphiel
-## 教程
+## Tutorial
 
-- [本地部署教程](tutorial.md)
+- [Local Setup(tutorial.md)
 
-## 更新记录
+## Release Log
 
-- [更新日志](Release.md)
+- [Release Log](Release.md)
