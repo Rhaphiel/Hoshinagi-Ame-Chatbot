@@ -2,8 +2,8 @@
 A QQ Chatbot by Rhaphiel
 ## Tutorial
 
-- [Local Setup](tutorial.md)
+- [Tutorial On Chatbot Deployment](tutorial.md)
 
-## Release Log
+## Release
 
 - [Release Log](Release.md)
