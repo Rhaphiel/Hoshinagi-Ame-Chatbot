@@ -6,4 +6,4 @@ A QQ Chatbot by Rhaphiel
 
 ## Release
 
-- [Release Log](Release.md)
+- [Release Log](Release)
